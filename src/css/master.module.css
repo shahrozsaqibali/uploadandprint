@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'GoldPlayM';
+    src: url('../fonts/GOLDPLAYMEDIUM.OTF');
+}
+
+@font-face {
+    font-family: 'GoldPlayB';
+    src: url('../fonts/GOLDPLAYBOLD.OTF');
+}
+
+@font-face {
+    font-family: 'GoldPlayL';
+    src: url('../fonts/GOLDPLAYLIGHT.OTF');
+}
+
+
+body{
+    background-color: #F9F2F2;
+    margin: 0;
+    padding: 0;
+}

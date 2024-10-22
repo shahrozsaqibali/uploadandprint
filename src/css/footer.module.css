@@ -1,0 +1,16 @@
+.footerContainer{
+    font-family: GoldPlayM;
+    position: absolute;
+    bottom: 10px;
+}
+
+.footerContainer h2{
+    margin: 0;
+    padding: 0;
+  
+}
+
+.footerContainer p{
+    margin: 0;
+    font-family: GoldPlayL;
+}

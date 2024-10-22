@@ -1,0 +1,168 @@
+.uploadphotocontainer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.uploadphotocontainer h2{
+    font-family: GoldPlayM;
+    color: #D5AFC1;
+    font-size: 21pt;
+}
+
+.uploadbutton{
+    padding: 20px 80px 20px 80px;
+    background-color: #D5AFC1;
+    color: white;
+    font-size: 15pt;
+    border-radius: 10px;
+    font-family: GoldPlayB;
+    display: block;
+    margin-top: -5%;
+    margin-bottom: 5%;
+}
+
+.cropContainer{
+    position: relative;
+    width: 100vw;
+    height: 60vh;
+    margin: 0;
+
+    padding: 0;
+}
+
+.CropNUploadFileContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.uploadButton{
+    background-color: #D5AFC1;
+    width: 191px;
+    height: 51px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: GoldPlayB;
+    color: white;
+    font-size: 16px;
+    margin-top: 1%;
+    border-radius: 10px;
+    z-index: 1000;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;;
+}
+
+.reactEasyCrop_CropArea {
+    color: black;
+}
+
+.instruction{
+    padding-left: 1vw;
+    padding-right: 1vw; 
+    font-family: GoldPlayM;
+}
+
+.instruction p{
+    padding: 0;
+}
+
+.finalImageContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    margin-top: 15%;
+   
+}
+
+
+.finalImageContainer p{
+    font-family: GoldPlayM;
+}
+
+
+.finalImageContainer img{
+    width: 100%;
+    height: 300;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.CodeContainer{
+    margin-top: 20%;
+    font-family: GoldPlayM;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.CodeContainer h2{
+    font-family: GoldPlayL;
+    padding: 0;
+    margin: 0;
+}
+
+.Code{
+    background-color: white;
+    width: 181px;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.Code label{
+    font-size: 25px;
+    font-family: GoldPlayB;
+}
+
+.PrintInstruction p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+.PrintInstruction ol{
+    margin: 0;
+    padding: 0;
+    font-family: GoldPlayL;
+}
+
+.PrintInstruction{
+    margin-top: 5%;
+}
+
+
+.LocatePhotobooth{
+    width: 200px;
+    height: 51px;
+    background-color: #D5AFC1;
+    font-family: GoldPlayM;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+    border-radius: 10px;
+    color: white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.LoadingContainer{
+  
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
