@@ -10,7 +10,7 @@ import Style from "./css/master.module.css";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
       <div>
-          <Header />
+
           <Content />
           <Footer />
       </div>

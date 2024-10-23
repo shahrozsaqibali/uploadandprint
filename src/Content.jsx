@@ -169,7 +169,7 @@ export default function Content(){
                 </div>
                 <div>
                     <div className={Style.LocatePhotobooth}>
-                        <label>Nearest Photo Booth</label>
+                        <a href="https://cluster-clear.com/productpage_bookingform/"><label>Explore Our Photo Booth</label></a>
                     </div>
                 </div>
             </div>
@@ -213,7 +213,7 @@ export default function Content(){
                 <div className={Style.CropNUploadFileContainer}>
                     
                     <div className={Style.instruction}>
-                    <p>Adjust your photo based on the grid size, as this represents the print size.</p>
+                    <p>Rotate, zoom in, or zoom out to align your photo with the grid size.</p>
                     </div>
     
                     <div className={Style.cropContainer}>

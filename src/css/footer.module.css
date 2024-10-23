@@ -2,6 +2,7 @@
     font-family: GoldPlayM;
     position: absolute;
     bottom: 10px;
+    margin-left: 2%;
 }
 
 .footerContainer h2{
@@ -12,5 +13,6 @@
 
 .footerContainer p{
     margin: 0;
+
     font-family: GoldPlayL;
 }
